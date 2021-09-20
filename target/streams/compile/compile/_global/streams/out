@@ -1,0 +1,47 @@
+[0m[[0m[0minfo[0m] [0m[0mCleaning datadir [/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/target/scala-2.13/scoverage-data][0m
+[0m[[0m[0minfo[0m] [0m[0mBeginning coverage instrumentation[0m
+[0m[[0m[0minfo[0m] [0m[0mInstrumentation completed [3358 statements][0m
+[0m[[0m[0minfo[0m] [0m[0mWrote instrumentation file [/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/target/scala-2.13/scoverage-data/scoverage.coverage][0m
+[0m[[0m[0minfo[0m] [0m[0mWill write measurement data to [/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/target/scala-2.13/scoverage-data][0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/src/main/scala/scalameta/stats/util/defs.scala:22:69: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: NamespaceEmpty[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def obtainFurtherNamespace(old:Entry,add:String):NamespaceEntry = old match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/src/main/scala/uml/strategies/collecting/assoc/CollectAllAssociationsBasedOn.scala:11:9: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: (ClassRef(_, _), ConcreteClass(_)), (ClassRef(_, _), PackageRef(_)), (ConcreteClass(_), ClassRef(_, _)), (ConcreteClass(_), ConcreteClass(_)), (ConcreteClass(_), PackageRef(_)), (PackageRef(_), ClassRef(_, _)), (PackageRef(_), ConcreteClass(_)), (PackageRef(_), PackageRef(_))[0m
+[0m[[0m[33mwarn[0m] [0m[0m        (r.relationshipInfo.from, r.relationshipInfo.to) match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/src/main/scala/uml/strategies/rewriting/assoc/DeleteUnTargetedExternalClasses.scala:28:33: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: PackageRef(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m    val res = difference.exists {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/src/main/scala/uml/strategies/rewriting/assoc/TransformAssociations.scala:31:26: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Without[0m
+[0m[[0m[33mwarn[0m] [0m[0m      case (acc, r) => r.relationshipDirection match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/src/main/scala/uml/strategies/rewriting/assoc/TransformAssociations.scala:38:26: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Without[0m
+[0m[[0m[33mwarn[0m] [0m[0m      case (acc, r) => r.relationshipDirection match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/src/main/scala/uml/strategies/rewriting/assoc/TransformAssociations.scala:47:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: PackageRef(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m    rE match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/src/main/scala/uml/strategies/rewriting/assoc/TransformAssociations.scala:69:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: PackageRef(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m    rE match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/src/main/scala/uml/strategies/rewriting/companion/RenameAllAffectedRelationships.scala:75:7: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: PackageRef(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m      relElem match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/src/main/scala/uml/strategies/rewriting/packagerep/DeleteInnerAssocStrat.scala:13:26: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: PackageRef(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m        relationshipInfo.from match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/src/main/scala/uml/umlMethods.scala:39:11: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Without[0m
+[0m[[0m[33mwarn[0m] [0m[0m        r.relationshipDirection match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m3 deprecations (since 2.13.2); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0m11 warnings found[0m

@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/project/"), "scalauml-build")...
+[debug] Done updating ProjectRef(uri("file:/Users/arnold.dajao/Documents/IdeaProjects/arnoldmd181/ScalaUml/project/"), "scalauml-build")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

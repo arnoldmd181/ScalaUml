@@ -1,0 +1,44 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(umlCoverage.dotty.GivenSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(umlCoverage.dotty.ContextBoundSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(umlCoverage.dotty.ExtensionSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(umlCoverage.dotty.TraitParametersSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(rewriting.collectingStrats.PackageRepresentationSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(umlCoverage.dotty.ContextFunctionSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(rewriting.collectingStrats.CollectingSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(umlCoverage.dotty.TemplateParameterSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(rewriting.RewritingSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(rewriting.assoc.AssocOfExternalsSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(umlCoverage.dotty.UsingSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(rewriting.companion.CompanionObjectSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(umlCoverage.dotty.EnumSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(umlCoverage.dotty.types.UnionSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(umlCoverage.dotty.types.AndSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(umlCoverage.dotty.TransparentTraitsSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(preprocessing.Namespacing, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(umlCoverage.dotty.OpenClassesSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(umlCoverage.dotty.AnnotationAndModifiersSuite, org.scalatest.tools.Framework$$anon$1@7012ffb0, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 7 seconds, 204 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 35[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 19, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 35, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	umlCoverage.dotty.types.AndSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	umlCoverage.dotty.types.UnionSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rewriting.collectingStrats.PackageRepresentationSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	umlCoverage.dotty.TransparentTraitsSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rewriting.RewritingSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rewriting.companion.CompanionObjectSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	umlCoverage.dotty.TemplateParameterSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	umlCoverage.dotty.EnumSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	umlCoverage.dotty.TraitParametersSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	umlCoverage.dotty.GivenSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	umlCoverage.dotty.ContextFunctionSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	umlCoverage.dotty.AnnotationAndModifiersSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	umlCoverage.dotty.OpenClassesSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rewriting.collectingStrats.CollectingSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	umlCoverage.dotty.ContextBoundSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	rewriting.assoc.AssocOfExternalsSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	preprocessing.Namespacing[0m
+[0m[[0m[0mdebug[0m] [0m[0m	umlCoverage.dotty.UsingSuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	umlCoverage.dotty.ExtensionSuite[0m

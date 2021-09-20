@@ -1,0 +1,21 @@
+#Successful Tests
+#Mon Sep 20 01:05:06 EDT 2021
+umlCoverage.dotty.types.AndSuite=1632114306595
+umlCoverage.dotty.UsingSuite=1632114306599
+rewriting.RewritingSuite=1632114300860
+umlCoverage.dotty.OpenClassesSuite=1632114306595
+umlCoverage.dotty.types.UnionSuite=1632114306585
+umlCoverage.dotty.ExtensionSuite=1632114299705
+umlCoverage.dotty.ContextBoundSuite=1632114306595
+umlCoverage.dotty.GivenSuite=1632114299705
+umlCoverage.dotty.ContextFunctionSuite=1632114306586
+rewriting.collectingStrats.PackageRepresentationSuite=1632114300802
+rewriting.assoc.AssocOfExternalsSuite=1632114300758
+umlCoverage.dotty.AnnotationAndModifiersSuite=1632114306621
+umlCoverage.dotty.EnumSuite=1632114306621
+preprocessing.Namespacing=1632114302324
+umlCoverage.dotty.TransparentTraitsSuite=1632114300766
+umlCoverage.dotty.TraitParametersSuite=1632114306599
+umlCoverage.dotty.TemplateParameterSuite=1632114306595
+rewriting.companion.CompanionObjectSuite=1632114300755
+rewriting.collectingStrats.CollectingSuite=1632114300655

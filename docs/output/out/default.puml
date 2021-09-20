@@ -1,0 +1,22 @@
+@startuml need_to_find_id
+package animals{
+    class animals.Wombat << caseclass >>{
+        << ctor >>Wombat (location : String)  
+    -- <<scalaclass>> --
+        isSealed
+    }
+    abstract class animals.Animal << trait >>{
+        location : String 
+         
+    }
+}
+package animals::extension{
+    class animals::extension.Olm << caseclass >>{
+        << ctor >>Olm (location : String)  
+    -- <<scalaclass>> --
+        isSealed
+    }
+}
+animals.Animal <|-- animals::extension.Olm 
+animals.Animal <|-- animals.Wombat 
+@enduml
